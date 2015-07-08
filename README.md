@@ -1,2 +1,3 @@
 # GitHub-Class
-<dl>west chester</dl>
+*west chester
+*andrew cheng
