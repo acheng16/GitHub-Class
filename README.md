@@ -1,3 +1,3 @@
 # GitHub-Class
-*west chester
-*andrew cheng
+* west chester
+* andrew cheng
